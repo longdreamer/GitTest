@@ -1,9 +1,8 @@
 #Please submit commit message according to following format
-#Header:
+#Header[Mandatory]:
 #<Type>: <JIRA ID> <Subject>
 
-#Body:
-
+#Body[optional]:
 
 
 
